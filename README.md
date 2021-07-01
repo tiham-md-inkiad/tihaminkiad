@@ -1,7 +1,7 @@
 # demo
-
 this is a demo of git
-
+ 
 ## subdemo
 hi tiham inkiad
-how are you
+how are yougit statu
+tiham
